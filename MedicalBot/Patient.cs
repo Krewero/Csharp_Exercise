@@ -51,13 +51,13 @@ public class Patient
 
     public void SetGender(string gender)
     {
-        if(gender == "male"||gender == "female"||gender == "other")
+        if(gender == "Male" || gender == "Female" || gender == "Other")
         {
             this._gender = gender;
         }
         else
         {
-            Console.WriteLine("Impossible to set this gender");
+            Console.WriteLine("Impossible to set this gender\nPlease choos: Male, Female or other");
         }
     }
 
@@ -73,7 +73,7 @@ public class Patient
 
     public void SetSymptomCode(string code)
     {
-        if( code!= "S1"|| code != "S2"|| code != "S3")
+        if( code == "S1"|| code == "S2"|| code == "S3")
         {
             this._symptomCode = code;
         }
@@ -104,10 +104,15 @@ public class Patient
             }
             default:
             {
-                this._symptomCode = "Unkown";
+                this._symptomCode = null;
                 break;
             }
         }
+        return this._symptomCode;
+    }
+
+    public string GetSymptoms2()
+    {
         return this._symptomCode;
     }
 
