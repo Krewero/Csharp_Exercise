@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Emanuele Solano\\OneDrive\\Desktop\\C#_Excercise\\ATM\\ATM.csproj": {}
+    "C:\\Users\\Emanuele Solano\\OneDrive\\Desktop\\Full stack\\Esercizi e progetti\\C#_Excercise\\ATM\\ATM.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Emanuele Solano\\OneDrive\\Desktop\\C#_Excercise\\ATM\\ATM.csproj": {
+    "C:\\Users\\Emanuele Solano\\OneDrive\\Desktop\\Full stack\\Esercizi e progetti\\C#_Excercise\\ATM\\ATM.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Emanuele Solano\\OneDrive\\Desktop\\C#_Excercise\\ATM\\ATM.csproj",
+        "projectUniqueName": "C:\\Users\\Emanuele Solano\\OneDrive\\Desktop\\Full stack\\Esercizi e progetti\\C#_Excercise\\ATM\\ATM.csproj",
         "projectName": "ATM",
-        "projectPath": "C:\\Users\\Emanuele Solano\\OneDrive\\Desktop\\C#_Excercise\\ATM\\ATM.csproj",
+        "projectPath": "C:\\Users\\Emanuele Solano\\OneDrive\\Desktop\\Full stack\\Esercizi e progetti\\C#_Excercise\\ATM\\ATM.csproj",
         "packagesPath": "C:\\Users\\Emanuele Solano\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Emanuele Solano\\OneDrive\\Desktop\\C#_Excercise\\ATM\\obj\\",
+        "outputPath": "C:\\Users\\Emanuele Solano\\OneDrive\\Desktop\\Full stack\\Esercizi e progetti\\C#_Excercise\\ATM\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Emanuele Solano\\AppData\\Roaming\\NuGet\\NuGet.Config",
