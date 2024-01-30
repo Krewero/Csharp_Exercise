@@ -1,0 +1,15 @@
+C:\Users\Emanuele Solano\OneDrive\Desktop\Full stack\Esercizi e progetti\C#_Excercise\GameCharacterSystem\obj\Debug\net8.0\GameCharacterSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emanuele Solano\OneDrive\Desktop\Full stack\Esercizi e progetti\C#_Excercise\GameCharacterSystem\obj\Debug\net8.0\GameCharacterSystem.AssemblyInfoInputs.cache
+C:\Users\Emanuele Solano\OneDrive\Desktop\Full stack\Esercizi e progetti\C#_Excercise\GameCharacterSystem\obj\Debug\net8.0\GameCharacterSystem.AssemblyInfo.cs
+C:\Users\Emanuele Solano\OneDrive\Desktop\Full stack\Esercizi e progetti\C#_Excercise\GameCharacterSystem\obj\Debug\net8.0\GameCharacterSystem.csproj.CoreCompileInputs.cache
+C:\Users\Emanuele Solano\OneDrive\Desktop\Full stack\Esercizi e progetti\C#_Excercise\GameCharacterSystem\obj\Debug\net8.0\GameCharacterSystem.sourcelink.json
+C:\Users\Emanuele Solano\OneDrive\Desktop\Full stack\Esercizi e progetti\C#_Excercise\GameCharacterSystem\bin\Debug\net8.0\GameCharacterSystem.exe
+C:\Users\Emanuele Solano\OneDrive\Desktop\Full stack\Esercizi e progetti\C#_Excercise\GameCharacterSystem\bin\Debug\net8.0\GameCharacterSystem.deps.json
+C:\Users\Emanuele Solano\OneDrive\Desktop\Full stack\Esercizi e progetti\C#_Excercise\GameCharacterSystem\bin\Debug\net8.0\GameCharacterSystem.runtimeconfig.json
+C:\Users\Emanuele Solano\OneDrive\Desktop\Full stack\Esercizi e progetti\C#_Excercise\GameCharacterSystem\bin\Debug\net8.0\GameCharacterSystem.dll
+C:\Users\Emanuele Solano\OneDrive\Desktop\Full stack\Esercizi e progetti\C#_Excercise\GameCharacterSystem\bin\Debug\net8.0\GameCharacterSystem.pdb
+C:\Users\Emanuele Solano\OneDrive\Desktop\Full stack\Esercizi e progetti\C#_Excercise\GameCharacterSystem\obj\Debug\net8.0\GameCharacterSystem.dll
+C:\Users\Emanuele Solano\OneDrive\Desktop\Full stack\Esercizi e progetti\C#_Excercise\GameCharacterSystem\obj\Debug\net8.0\refint\GameCharacterSystem.dll
+C:\Users\Emanuele Solano\OneDrive\Desktop\Full stack\Esercizi e progetti\C#_Excercise\GameCharacterSystem\obj\Debug\net8.0\GameCharacterSystem.pdb
+C:\Users\Emanuele Solano\OneDrive\Desktop\Full stack\Esercizi e progetti\C#_Excercise\GameCharacterSystem\obj\Debug\net8.0\GameCharacterSystem.genruntimeconfig.cache
+C:\Users\Emanuele Solano\OneDrive\Desktop\Full stack\Esercizi e progetti\C#_Excercise\GameCharacterSystem\obj\Debug\net8.0\ref\GameCharacterSystem.dll
