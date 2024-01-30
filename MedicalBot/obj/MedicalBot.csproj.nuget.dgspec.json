@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Emanuele Solano\\OneDrive\\Desktop\\C#_Excercise\\MedicalBot\\MedicalBot.csproj": {}
+    "C:\\Users\\Emanuele Solano\\OneDrive\\Desktop\\Full stack\\Esercizi e progetti\\C#_Excercise\\MedicalBot\\MedicalBot.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Emanuele Solano\\OneDrive\\Desktop\\C#_Excercise\\MedicalBot\\MedicalBot.csproj": {
+    "C:\\Users\\Emanuele Solano\\OneDrive\\Desktop\\Full stack\\Esercizi e progetti\\C#_Excercise\\MedicalBot\\MedicalBot.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Emanuele Solano\\OneDrive\\Desktop\\C#_Excercise\\MedicalBot\\MedicalBot.csproj",
+        "projectUniqueName": "C:\\Users\\Emanuele Solano\\OneDrive\\Desktop\\Full stack\\Esercizi e progetti\\C#_Excercise\\MedicalBot\\MedicalBot.csproj",
         "projectName": "MedicalBot",
-        "projectPath": "c:\\Users\\Emanuele Solano\\OneDrive\\Desktop\\C#_Excercise\\MedicalBot\\MedicalBot.csproj",
+        "projectPath": "C:\\Users\\Emanuele Solano\\OneDrive\\Desktop\\Full stack\\Esercizi e progetti\\C#_Excercise\\MedicalBot\\MedicalBot.csproj",
         "packagesPath": "C:\\Users\\Emanuele Solano\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Emanuele Solano\\OneDrive\\Desktop\\C#_Excercise\\MedicalBot\\obj\\",
+        "outputPath": "C:\\Users\\Emanuele Solano\\OneDrive\\Desktop\\Full stack\\Esercizi e progetti\\C#_Excercise\\MedicalBot\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Emanuele Solano\\AppData\\Roaming\\NuGet\\NuGet.Config",

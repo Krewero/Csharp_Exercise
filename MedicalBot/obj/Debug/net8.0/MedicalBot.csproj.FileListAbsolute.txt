@@ -13,3 +13,18 @@ C:\Users\Emanuele Solano\OneDrive\Desktop\C#_Excercise\MedicalBot\obj\Debug\net8
 C:\Users\Emanuele Solano\OneDrive\Desktop\C#_Excercise\MedicalBot\obj\Debug\net8.0\MedicalBot.pdb
 C:\Users\Emanuele Solano\OneDrive\Desktop\C#_Excercise\MedicalBot\obj\Debug\net8.0\MedicalBot.genruntimeconfig.cache
 C:\Users\Emanuele Solano\OneDrive\Desktop\C#_Excercise\MedicalBot\obj\Debug\net8.0\ref\MedicalBot.dll
+C:\Users\Emanuele Solano\OneDrive\Desktop\Full stack\Esercizi e progetti\C#_Excercise\MedicalBot\bin\Debug\net8.0\MedicalBot.exe
+C:\Users\Emanuele Solano\OneDrive\Desktop\Full stack\Esercizi e progetti\C#_Excercise\MedicalBot\bin\Debug\net8.0\MedicalBot.deps.json
+C:\Users\Emanuele Solano\OneDrive\Desktop\Full stack\Esercizi e progetti\C#_Excercise\MedicalBot\bin\Debug\net8.0\MedicalBot.runtimeconfig.json
+C:\Users\Emanuele Solano\OneDrive\Desktop\Full stack\Esercizi e progetti\C#_Excercise\MedicalBot\bin\Debug\net8.0\MedicalBot.dll
+C:\Users\Emanuele Solano\OneDrive\Desktop\Full stack\Esercizi e progetti\C#_Excercise\MedicalBot\bin\Debug\net8.0\MedicalBot.pdb
+C:\Users\Emanuele Solano\OneDrive\Desktop\Full stack\Esercizi e progetti\C#_Excercise\MedicalBot\obj\Debug\net8.0\MedicalBot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emanuele Solano\OneDrive\Desktop\Full stack\Esercizi e progetti\C#_Excercise\MedicalBot\obj\Debug\net8.0\MedicalBot.AssemblyInfoInputs.cache
+C:\Users\Emanuele Solano\OneDrive\Desktop\Full stack\Esercizi e progetti\C#_Excercise\MedicalBot\obj\Debug\net8.0\MedicalBot.AssemblyInfo.cs
+C:\Users\Emanuele Solano\OneDrive\Desktop\Full stack\Esercizi e progetti\C#_Excercise\MedicalBot\obj\Debug\net8.0\MedicalBot.csproj.CoreCompileInputs.cache
+C:\Users\Emanuele Solano\OneDrive\Desktop\Full stack\Esercizi e progetti\C#_Excercise\MedicalBot\obj\Debug\net8.0\MedicalBot.sourcelink.json
+C:\Users\Emanuele Solano\OneDrive\Desktop\Full stack\Esercizi e progetti\C#_Excercise\MedicalBot\obj\Debug\net8.0\MedicalBot.dll
+C:\Users\Emanuele Solano\OneDrive\Desktop\Full stack\Esercizi e progetti\C#_Excercise\MedicalBot\obj\Debug\net8.0\refint\MedicalBot.dll
+C:\Users\Emanuele Solano\OneDrive\Desktop\Full stack\Esercizi e progetti\C#_Excercise\MedicalBot\obj\Debug\net8.0\MedicalBot.pdb
+C:\Users\Emanuele Solano\OneDrive\Desktop\Full stack\Esercizi e progetti\C#_Excercise\MedicalBot\obj\Debug\net8.0\MedicalBot.genruntimeconfig.cache
+C:\Users\Emanuele Solano\OneDrive\Desktop\Full stack\Esercizi e progetti\C#_Excercise\MedicalBot\obj\Debug\net8.0\ref\MedicalBot.dll

@@ -15,29 +15,29 @@ namespace Bot
             {
                 case "Headache":
                     {
-                        Console.WriteLine("Ibuprofen");
+                        Console.WriteLine(GetDosage("Ibuprofen"));
                         break;
                     }
                 case "Skin rashes":
                     {
-                        Console.WriteLine("Diphenhydramine");
+                        Console.WriteLine(GetDosage("Diphenhydramine"));
                         break;
                     }
                 case "Dizziness":
                     {
                         if (patient.GetMedicalHistory() == "Diabetes")
                         {
-                            Console.WriteLine("Metformin");
+                            Console.WriteLine(GetDosage("Metformin"));
                         }
                         else
                         {
-                            Console.WriteLine("Dimenhydrinate");
+                            Console.WriteLine(GetDosage("Dimenhydrinate"));
                         }
                         break;
                     }
                 default:
                     {
-                        Console.WriteLine("Impossible to prescribe");
+                        Console.WriteLine(GetDosage("Impossible to prescribe"));
                         break;
                     }
             }
@@ -46,49 +46,49 @@ namespace Bot
             {
                 switch(medicineName)
                 {
-                    case "ibuprofen":
+                    case "Ibuprofen":
                     {
                         if(patient.GetAge() < 18)
                         {
-                            patient.SetPrescription("The dosage is 400 mg");
+                            patient.SetPrescription(medicineName +"The dosage is 400 mg");
                         }
                         else
                         {
-                            patient.SetPrescription("The dosage is 800 mg");
+                            patient.SetPrescription(medicineName +"The dosage is 800 mg");
                         }
                         break;
                     }
-                    case "diphenhydramine":
+                    case "Diphenhydramine":
                     {
                         if(patient.GetAge() < 18)
                         {
-                            patient.SetPrescription("The dosage is 50 mg");
+                            patient.SetPrescription(medicineName +"The dosage is 50 mg");
                         }
                         else
                         {
-                            patient.SetPrescription("the dosage is 300 mg");
+                            patient.SetPrescription(medicineName + "The dosage is 300 mg");
                         }
                         break;
                     }
-                    case "dimenhydrinate":
+                    case "Dimenhydrinate":
                     {
                         if(patient.GetAge() < 18)
                         {
-                            patient.SetPrescription("The dosage is 50 mg");
+                            patient.SetPrescription(medicineName +"The dosage is 50 mg");
                         }
                         else
                         {
-                            patient.SetPrescription("the dosage is 400 mg");
+                            patient.SetPrescription(medicineName +"The dosage is 400 mg");
                         }
                         break;
                     }
                     case "Metformin":
                     {
-                        Console.WriteLine("The dosage is 500 mg");
+                        Console.WriteLine(medicineName +"The dosage is 500 mg");
                         break;
                     }
                 }
-                return null;
+                return patient.GetPrescription();
             }
         }
     }

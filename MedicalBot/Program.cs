@@ -13,7 +13,7 @@ public class Program
 
         Console.WriteLine("Enter your details:");
 
-        /*do
+        do
         {
             Console.WriteLine("Patient name:");
             string patientName = Console.ReadLine();
@@ -40,7 +40,7 @@ public class Program
 
         Console.WriteLine("Patient medical history:");
         string history = Console.ReadLine();
-        pat1.SetMedicalHistory(history);*/
+        pat1.SetMedicalHistory(history);
         
 
         do
@@ -53,7 +53,6 @@ public class Program
 
         Console.WriteLine("Your prescription based on your age, symptoms and medical history:");
         bob.PrescribeMedication(pat1);
-        Console.WriteLine(pat1.GetPrescription());
 
         Console.WriteLine("Thank you for coming!");
     }

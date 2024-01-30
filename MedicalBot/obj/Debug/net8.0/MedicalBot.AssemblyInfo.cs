@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MedicalBot")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f9b89626403d721aef76973fc8907febba3e9db9")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a1ea6a398b589088c70ccfa6aeca18f35b8b8543")]
 [assembly: System.Reflection.AssemblyProductAttribute("MedicalBot")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MedicalBot")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
