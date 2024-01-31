@@ -8,7 +8,7 @@ public class Warrior: Character
 
     public void Charge(Character target)
     {
-        int damage = 20;
+        int damage = 30;
         int damageToHealth = damage - target.Defense;
         if(damageToHealth > 0)
         {

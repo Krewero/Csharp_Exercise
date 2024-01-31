@@ -24,10 +24,7 @@ namespace Char
             get {return _health;}
             set
             {
-                if(value > 10)
-                {
-                    _health = value;
-                }
+                _health = value;
             }
         }
 
@@ -36,7 +33,7 @@ namespace Char
             get {return _attack;}
             set 
             {
-                if(value > 10)
+                if(value >= 10)
                 {
                     _attack = value;
                 }
@@ -48,7 +45,7 @@ namespace Char
             get {return _defense;}
             set 
             {
-                if(value > 10)
+                if(value >= 10)
                 {
                     _defense = value;
                 }

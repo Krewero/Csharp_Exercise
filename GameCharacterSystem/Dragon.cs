@@ -8,7 +8,7 @@ public class Dragon: Character
 
     public void BreatheFire(Character target)
     {
-        int damage = 50;
+        int damage = 210;
         int damageToHealth = damage - target.Defense;
         if(damageToHealth > 0)
         {

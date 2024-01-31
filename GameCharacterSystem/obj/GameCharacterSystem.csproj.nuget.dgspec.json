@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Emanuele Solano\\OneDrive\\Desktop\\Full stack\\Esercizi e progetti\\C#_Excercise\\GameCharacterSystem\\GameCharacterSystem.csproj": {}
+    "c:\\Users\\Emanuele Solano\\OneDrive\\Desktop\\Full stack\\Esercizi e progetti\\C#_Excercise\\GameCharacterSystem\\GameCharacterSystem.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Emanuele Solano\\OneDrive\\Desktop\\Full stack\\Esercizi e progetti\\C#_Excercise\\GameCharacterSystem\\GameCharacterSystem.csproj": {
+    "c:\\Users\\Emanuele Solano\\OneDrive\\Desktop\\Full stack\\Esercizi e progetti\\C#_Excercise\\GameCharacterSystem\\GameCharacterSystem.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Emanuele Solano\\OneDrive\\Desktop\\Full stack\\Esercizi e progetti\\C#_Excercise\\GameCharacterSystem\\GameCharacterSystem.csproj",
+        "projectUniqueName": "c:\\Users\\Emanuele Solano\\OneDrive\\Desktop\\Full stack\\Esercizi e progetti\\C#_Excercise\\GameCharacterSystem\\GameCharacterSystem.csproj",
         "projectName": "GameCharacterSystem",
-        "projectPath": "C:\\Users\\Emanuele Solano\\OneDrive\\Desktop\\Full stack\\Esercizi e progetti\\C#_Excercise\\GameCharacterSystem\\GameCharacterSystem.csproj",
+        "projectPath": "c:\\Users\\Emanuele Solano\\OneDrive\\Desktop\\Full stack\\Esercizi e progetti\\C#_Excercise\\GameCharacterSystem\\GameCharacterSystem.csproj",
         "packagesPath": "C:\\Users\\Emanuele Solano\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Emanuele Solano\\OneDrive\\Desktop\\Full stack\\Esercizi e progetti\\C#_Excercise\\GameCharacterSystem\\obj\\",
+        "outputPath": "c:\\Users\\Emanuele Solano\\OneDrive\\Desktop\\Full stack\\Esercizi e progetti\\C#_Excercise\\GameCharacterSystem\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Emanuele Solano\\AppData\\Roaming\\NuGet\\NuGet.Config",

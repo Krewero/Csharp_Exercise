@@ -6,9 +6,9 @@ public class Program
     {
         Game theGame = new Game();
 
-        Warrior warrior = new Warrior("Solaire", 200, 10, 10);
-        Mage mage = new Mage("King", 170, 15, 10);
-        Dragon dragon = new Dragon("Spyro", 150, 20, 10);
+        Warrior warrior = new Warrior("Solaire", 200, 20, 10);
+        Mage mage = new Mage("King", 170, 25, 10);
+        Dragon dragon = new Dragon("Spyro", 150, 30, 10);
 
         Console.WriteLine($"{warrior.Name} is a warrior");
         Console.WriteLine($"{mage.Name} is a mage");
