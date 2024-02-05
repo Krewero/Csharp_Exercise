@@ -68,6 +68,13 @@ public class DVD: ILoanable, IPrintable
         set {_borrower = value;}
     }
 
+    public DVD(string director, string title, int lenghtInMinutes)
+    {
+        this.Director = director;
+        this.Title = title;
+        this.LenghtInMinutes = lenghtInMinutes;
+    }
+
     public string Borrow(int loanPeriod)
     {
         if(loanPeriod >= 7)

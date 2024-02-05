@@ -68,6 +68,13 @@ public class CD : ILoanable, IPrintable
         set { _borrower = value; }
     }
 
+    public CD(string artist, string title, int numberOfTracks)
+    {
+        this.Artist = artist;
+        this.Title = title;
+        this.NumberOfTracks = numberOfTracks;
+    }
+
     public string Borrow(int loanPeriod)
     {
         if (loanPeriod >= 14)

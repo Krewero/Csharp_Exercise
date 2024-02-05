@@ -67,6 +67,13 @@ public class Book: ILoanable, IPrintable
         set {_borrower = value;}
     }
 
+    public Book(string author, string title, string ISBN)
+    {
+        this.Author = author;
+        this.Title = title;
+        this.ISBN = ISBN;
+    }
+
     public string Borrow(int loanPeriod)
     {
         if(loanPeriod >= 21)
