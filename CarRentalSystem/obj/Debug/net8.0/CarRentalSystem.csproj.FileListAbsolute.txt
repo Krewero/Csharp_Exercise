@@ -1,0 +1,15 @@
+C:\Users\Emanuele Solano\OneDrive\Desktop\Full stack\Esercizi e progetti\C#_Excercise\CarRentalSystem\bin\Debug\net8.0\CarRentalSystem.exe
+C:\Users\Emanuele Solano\OneDrive\Desktop\Full stack\Esercizi e progetti\C#_Excercise\CarRentalSystem\bin\Debug\net8.0\CarRentalSystem.deps.json
+C:\Users\Emanuele Solano\OneDrive\Desktop\Full stack\Esercizi e progetti\C#_Excercise\CarRentalSystem\bin\Debug\net8.0\CarRentalSystem.runtimeconfig.json
+C:\Users\Emanuele Solano\OneDrive\Desktop\Full stack\Esercizi e progetti\C#_Excercise\CarRentalSystem\bin\Debug\net8.0\CarRentalSystem.dll
+C:\Users\Emanuele Solano\OneDrive\Desktop\Full stack\Esercizi e progetti\C#_Excercise\CarRentalSystem\bin\Debug\net8.0\CarRentalSystem.pdb
+C:\Users\Emanuele Solano\OneDrive\Desktop\Full stack\Esercizi e progetti\C#_Excercise\CarRentalSystem\obj\Debug\net8.0\CarRentalSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emanuele Solano\OneDrive\Desktop\Full stack\Esercizi e progetti\C#_Excercise\CarRentalSystem\obj\Debug\net8.0\CarRentalSystem.AssemblyInfoInputs.cache
+C:\Users\Emanuele Solano\OneDrive\Desktop\Full stack\Esercizi e progetti\C#_Excercise\CarRentalSystem\obj\Debug\net8.0\CarRentalSystem.AssemblyInfo.cs
+C:\Users\Emanuele Solano\OneDrive\Desktop\Full stack\Esercizi e progetti\C#_Excercise\CarRentalSystem\obj\Debug\net8.0\CarRentalSystem.csproj.CoreCompileInputs.cache
+C:\Users\Emanuele Solano\OneDrive\Desktop\Full stack\Esercizi e progetti\C#_Excercise\CarRentalSystem\obj\Debug\net8.0\CarRentalSystem.sourcelink.json
+C:\Users\Emanuele Solano\OneDrive\Desktop\Full stack\Esercizi e progetti\C#_Excercise\CarRentalSystem\obj\Debug\net8.0\CarRentalSystem.dll
+C:\Users\Emanuele Solano\OneDrive\Desktop\Full stack\Esercizi e progetti\C#_Excercise\CarRentalSystem\obj\Debug\net8.0\refint\CarRentalSystem.dll
+C:\Users\Emanuele Solano\OneDrive\Desktop\Full stack\Esercizi e progetti\C#_Excercise\CarRentalSystem\obj\Debug\net8.0\CarRentalSystem.pdb
+C:\Users\Emanuele Solano\OneDrive\Desktop\Full stack\Esercizi e progetti\C#_Excercise\CarRentalSystem\obj\Debug\net8.0\CarRentalSystem.genruntimeconfig.cache
+C:\Users\Emanuele Solano\OneDrive\Desktop\Full stack\Esercizi e progetti\C#_Excercise\CarRentalSystem\obj\Debug\net8.0\ref\CarRentalSystem.dll

@@ -1,0 +1,8 @@
+You should create a Car class that has private fields 
+for the make, model, rental price, and availability status (rented or not rented), 
+as well as public methods for renting and returning a car, and printing information about a car.
+
+Your program should also include a Main method 
+that creates a collection of Car objects, and allows the user to rent and return cars, 
+as well as view information about available cars.
+
