@@ -1,0 +1,15 @@
+C:\Users\Emanuele Solano\OneDrive\Desktop\Full stack\Esercizi e progetti\C#_Excercise\NewsArticle\bin\Debug\net8.0\NewsArticle.exe
+C:\Users\Emanuele Solano\OneDrive\Desktop\Full stack\Esercizi e progetti\C#_Excercise\NewsArticle\bin\Debug\net8.0\NewsArticle.deps.json
+C:\Users\Emanuele Solano\OneDrive\Desktop\Full stack\Esercizi e progetti\C#_Excercise\NewsArticle\bin\Debug\net8.0\NewsArticle.runtimeconfig.json
+C:\Users\Emanuele Solano\OneDrive\Desktop\Full stack\Esercizi e progetti\C#_Excercise\NewsArticle\bin\Debug\net8.0\NewsArticle.dll
+C:\Users\Emanuele Solano\OneDrive\Desktop\Full stack\Esercizi e progetti\C#_Excercise\NewsArticle\bin\Debug\net8.0\NewsArticle.pdb
+C:\Users\Emanuele Solano\OneDrive\Desktop\Full stack\Esercizi e progetti\C#_Excercise\NewsArticle\obj\Debug\net8.0\NewsArticle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emanuele Solano\OneDrive\Desktop\Full stack\Esercizi e progetti\C#_Excercise\NewsArticle\obj\Debug\net8.0\NewsArticle.AssemblyInfoInputs.cache
+C:\Users\Emanuele Solano\OneDrive\Desktop\Full stack\Esercizi e progetti\C#_Excercise\NewsArticle\obj\Debug\net8.0\NewsArticle.AssemblyInfo.cs
+C:\Users\Emanuele Solano\OneDrive\Desktop\Full stack\Esercizi e progetti\C#_Excercise\NewsArticle\obj\Debug\net8.0\NewsArticle.csproj.CoreCompileInputs.cache
+C:\Users\Emanuele Solano\OneDrive\Desktop\Full stack\Esercizi e progetti\C#_Excercise\NewsArticle\obj\Debug\net8.0\NewsArticle.sourcelink.json
+C:\Users\Emanuele Solano\OneDrive\Desktop\Full stack\Esercizi e progetti\C#_Excercise\NewsArticle\obj\Debug\net8.0\NewsArticle.dll
+C:\Users\Emanuele Solano\OneDrive\Desktop\Full stack\Esercizi e progetti\C#_Excercise\NewsArticle\obj\Debug\net8.0\refint\NewsArticle.dll
+C:\Users\Emanuele Solano\OneDrive\Desktop\Full stack\Esercizi e progetti\C#_Excercise\NewsArticle\obj\Debug\net8.0\NewsArticle.pdb
+C:\Users\Emanuele Solano\OneDrive\Desktop\Full stack\Esercizi e progetti\C#_Excercise\NewsArticle\obj\Debug\net8.0\NewsArticle.genruntimeconfig.cache
+C:\Users\Emanuele Solano\OneDrive\Desktop\Full stack\Esercizi e progetti\C#_Excercise\NewsArticle\obj\Debug\net8.0\ref\NewsArticle.dll
