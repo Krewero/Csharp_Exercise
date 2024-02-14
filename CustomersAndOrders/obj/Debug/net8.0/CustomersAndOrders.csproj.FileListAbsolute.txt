@@ -1,0 +1,15 @@
+C:\Users\Emanuele Solano\OneDrive\Desktop\Full stack\Esercizi e progetti\C#_Excercise\CustomersAndOrders\bin\Debug\net8.0\CustomersAndOrders.exe
+C:\Users\Emanuele Solano\OneDrive\Desktop\Full stack\Esercizi e progetti\C#_Excercise\CustomersAndOrders\bin\Debug\net8.0\CustomersAndOrders.deps.json
+C:\Users\Emanuele Solano\OneDrive\Desktop\Full stack\Esercizi e progetti\C#_Excercise\CustomersAndOrders\bin\Debug\net8.0\CustomersAndOrders.runtimeconfig.json
+C:\Users\Emanuele Solano\OneDrive\Desktop\Full stack\Esercizi e progetti\C#_Excercise\CustomersAndOrders\bin\Debug\net8.0\CustomersAndOrders.dll
+C:\Users\Emanuele Solano\OneDrive\Desktop\Full stack\Esercizi e progetti\C#_Excercise\CustomersAndOrders\bin\Debug\net8.0\CustomersAndOrders.pdb
+C:\Users\Emanuele Solano\OneDrive\Desktop\Full stack\Esercizi e progetti\C#_Excercise\CustomersAndOrders\obj\Debug\net8.0\CustomersAndOrders.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emanuele Solano\OneDrive\Desktop\Full stack\Esercizi e progetti\C#_Excercise\CustomersAndOrders\obj\Debug\net8.0\CustomersAndOrders.AssemblyInfoInputs.cache
+C:\Users\Emanuele Solano\OneDrive\Desktop\Full stack\Esercizi e progetti\C#_Excercise\CustomersAndOrders\obj\Debug\net8.0\CustomersAndOrders.AssemblyInfo.cs
+C:\Users\Emanuele Solano\OneDrive\Desktop\Full stack\Esercizi e progetti\C#_Excercise\CustomersAndOrders\obj\Debug\net8.0\CustomersAndOrders.csproj.CoreCompileInputs.cache
+C:\Users\Emanuele Solano\OneDrive\Desktop\Full stack\Esercizi e progetti\C#_Excercise\CustomersAndOrders\obj\Debug\net8.0\CustomersAndOrders.sourcelink.json
+C:\Users\Emanuele Solano\OneDrive\Desktop\Full stack\Esercizi e progetti\C#_Excercise\CustomersAndOrders\obj\Debug\net8.0\CustomersAndOrders.dll
+C:\Users\Emanuele Solano\OneDrive\Desktop\Full stack\Esercizi e progetti\C#_Excercise\CustomersAndOrders\obj\Debug\net8.0\refint\CustomersAndOrders.dll
+C:\Users\Emanuele Solano\OneDrive\Desktop\Full stack\Esercizi e progetti\C#_Excercise\CustomersAndOrders\obj\Debug\net8.0\CustomersAndOrders.pdb
+C:\Users\Emanuele Solano\OneDrive\Desktop\Full stack\Esercizi e progetti\C#_Excercise\CustomersAndOrders\obj\Debug\net8.0\CustomersAndOrders.genruntimeconfig.cache
+C:\Users\Emanuele Solano\OneDrive\Desktop\Full stack\Esercizi e progetti\C#_Excercise\CustomersAndOrders\obj\Debug\net8.0\ref\CustomersAndOrders.dll

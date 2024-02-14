@@ -1,4 +1,5 @@
 using Article;
+using System.Linq;
 
 class NewsArticleCollection
 {

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Emanuele Solano\\OneDrive\\Desktop\\Full stack\\Esercizi e progetti\\C#_Excercise\\NewsArticle\\NewsArticle.csproj": {}
+    "C:\\Users\\Emanuele Solano\\OneDrive\\Desktop\\Full stack\\Esercizi e progetti\\C#_Excercise\\CustomersAndOrders\\CustomersAndOrders.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Emanuele Solano\\OneDrive\\Desktop\\Full stack\\Esercizi e progetti\\C#_Excercise\\NewsArticle\\NewsArticle.csproj": {
+    "C:\\Users\\Emanuele Solano\\OneDrive\\Desktop\\Full stack\\Esercizi e progetti\\C#_Excercise\\CustomersAndOrders\\CustomersAndOrders.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Emanuele Solano\\OneDrive\\Desktop\\Full stack\\Esercizi e progetti\\C#_Excercise\\NewsArticle\\NewsArticle.csproj",
-        "projectName": "NewsArticle",
-        "projectPath": "c:\\Users\\Emanuele Solano\\OneDrive\\Desktop\\Full stack\\Esercizi e progetti\\C#_Excercise\\NewsArticle\\NewsArticle.csproj",
+        "projectUniqueName": "C:\\Users\\Emanuele Solano\\OneDrive\\Desktop\\Full stack\\Esercizi e progetti\\C#_Excercise\\CustomersAndOrders\\CustomersAndOrders.csproj",
+        "projectName": "CustomersAndOrders",
+        "projectPath": "C:\\Users\\Emanuele Solano\\OneDrive\\Desktop\\Full stack\\Esercizi e progetti\\C#_Excercise\\CustomersAndOrders\\CustomersAndOrders.csproj",
         "packagesPath": "C:\\Users\\Emanuele Solano\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Emanuele Solano\\OneDrive\\Desktop\\Full stack\\Esercizi e progetti\\C#_Excercise\\NewsArticle\\obj\\",
+        "outputPath": "C:\\Users\\Emanuele Solano\\OneDrive\\Desktop\\Full stack\\Esercizi e progetti\\C#_Excercise\\CustomersAndOrders\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Emanuele Solano\\AppData\\Roaming\\NuGet\\NuGet.Config",
