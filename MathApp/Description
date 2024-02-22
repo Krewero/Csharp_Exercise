@@ -1,0 +1,11 @@
+It receives "firstNumber", "secondNumber" and "operation" as inputs as query as a part of the URL.
+
+Parameters:
+
+firstNumber: Any int value
+
+secondNumber: Any int value
+
+operation: "+", "-", "*", "/" or "%"
+
+Finally, it should return the result of the specified operation performed on firstNumber and secondNumber
