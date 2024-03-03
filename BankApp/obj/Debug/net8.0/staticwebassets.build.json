@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "I42WOEjvloxFvWJ1lMZsdHmtlFO4CnAcC5LhvDiimdE=",
+  "Source": "BankApp",
+  "BasePath": "_content/BankApp",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "BankApp\\wwwroot",
+      "Source": "BankApp",
+      "ContentRoot": "C:\\Users\\Emanuele Solano\\OneDrive\\Desktop\\Full stack\\Esercizi e progetti\\C#_Excercise\\BankApp\\wwwroot\\",
+      "BasePath": "_content/BankApp",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Emanuele Solano\\OneDrive\\Desktop\\Full stack\\Esercizi e progetti\\C#_Excercise\\BankApp\\wwwroot\\DummyPDF.pdf",
+      "SourceId": "BankApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Emanuele Solano\\OneDrive\\Desktop\\Full stack\\Esercizi e progetti\\C#_Excercise\\BankApp\\wwwroot\\",
+      "BasePath": "_content/BankApp",
+      "RelativePath": "DummyPDF.pdf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\DummyPDF.pdf"
+    }
+  ]
+}
